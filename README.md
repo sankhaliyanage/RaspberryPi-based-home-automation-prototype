@@ -10,10 +10,10 @@ IOT assignment
    - IOT_thingspeak.py
    - Thingspeak.com
 	 - Access inforamtion
-      - email : kimj179@unitec.ac.nz
-	    - Id : kimj179
-	    - Pw : Uniteckimj179
-	    - Channel ID :   274555
+      - email : 
+	    - Id : 
+	    - Pw : 
+	    - Channel ID :   
 
 [Part I - How to install and run files]
 
@@ -68,10 +68,10 @@ IOT assignment
 4. Open browser with below url
    https://thingspeak.com/
 5. Log in with below information
-  - email : kimj179@unitec.ac.nz
-  - Id : kimj179
-  - Pw : Uniteckimj179
-  - Channel ID :   274555
+  - email : 
+  - Id : 
+  - Pw : 
+  - Channel ID :   
 6. Channel is already configured for our test environment.
   - 6 input field(Temp, Humidity,Proximity, sound, lght, rotary)
   - Go to "My Channels"
